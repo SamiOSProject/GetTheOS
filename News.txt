@@ -1,0 +1,23 @@
+4/21/2020
+===========================================
+"News for other Operating Systems such as MacOS, well, 
+since Mac has a different style of python, and things like
+os.system('cls') will be changed to os.system('clear'). That
+won't be hard, but we might only update newer versions of
+Sami, and probably starting in the late Beta early-release
+area anyway."
+===========================================
+
+4/20/2020
+===========================================
+"News for future versions of Python, well, When Python 3.9
+comes out, or any newer official versions of Python, as of 
+4/20/2020 I will update and check all versions of Sami to make
+sure they're supported with that version of Python. The time 
+will come when we stop checking and updating older versions
+of Sami. But Currently they will all still update."
+===========================================
+NOTE: News comes each update, we will start a website at
+some point, but for now, news comes in updates. Email us
+at unlimitedminecraft2011@gmail.com with feedback, comments,
+or suggestions for future versions! Be part of the OS.
